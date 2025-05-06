@@ -1,0 +1,2 @@
+# AvaloniaApplication_AOT_Json
+AvaloniaApplication_AOT_Json  序列化和反序列化
